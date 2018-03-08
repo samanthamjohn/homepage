@@ -25,8 +25,11 @@ github_username:  samjohn
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-whiteglass
 plugins:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-feed
 
 # Exclude from processing.
