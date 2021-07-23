@@ -3,3 +3,9 @@ img.post {
   vertical-align: baseline;
   margin: 10px;
 }
+
+img.poem-small {
+  width: 40%;
+  display: block;
+  clear: both;
+}

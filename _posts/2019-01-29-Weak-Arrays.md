@@ -2,6 +2,8 @@
 layout: post
 title:  "Fixing your retain cycles for fun and profit"
 date:   2019-01-29 6:53am
+summary: Some iOS techniques to deal with circular references in arrays. It's possible this only applies to Hopscotch, but perhaps you will learn something too.
+categories: programming
 ---
 
 I'm spending this week and next at [Apple Entrepreneur Camp](https://www.apple.com/newsroom/2019/01/apple-entrepreneur-camp-kicks-off-as-app-developer-earnings-hit-new-record/){:target='_blank'}. It’s a fantastic opportunity to learn from Apple engineers. So far, it’s been WWDC on steroids. The least I can do is to spread some of the knowledge I’ve gotten.

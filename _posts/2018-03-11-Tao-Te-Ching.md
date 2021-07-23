@@ -2,6 +2,8 @@
 layout: post
 title:  "The Tao Te Ching"
 date:   2018-03-12 8:53pm
+summary: One of my favorite books. Much of my life philosophy is based on the Tao. 
+categories: books
 ---
 I found this Ursula Le Guin translation of the [Tao Te Ching](https://www.penguinrandomhouse.com/books/99496/lao-tzu-tao-te-ching-by-ursula-k-le-guin/9781570623950/){:target='_blank'} on the bookshelf at an airbnb. I liked it so much that I bought my own copy.
 

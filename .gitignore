@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 assets/.DS_Store
 assets/img/retain_cycles/.DS_Store
+assets/img/.DS_Store
+.DS_Store

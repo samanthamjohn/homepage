@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "My mom, the scientist"
+summary: "I was very wise in my choice of parents. This is a small slice of what makes my mom so great." 
 date:   2013-05-01 1:48pm
+categories: life
 ---
 When we were kids, my brother and I knew that our mom was the scientist of the family. She had finished the better part of a PhD in chemistry before deciding to become a doctor. She also the one who knew how to fix things. From busted remotes to leaky faucets to putting together new toys, she always had the solution.
 

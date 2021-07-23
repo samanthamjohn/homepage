@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Some thoughts on mastery for a young programmer"
+title:  "Thoughts on mastery in programming"
 date:   2018-02-11 1:11pm
+summary: "Advice for a high schooler trying to get better at coding."
 categories: programming
 ---
 I recently met Ivan, a high schooler who is interested in both programming and self-improvement — two of my favorite topics. He taught himself to program and created several iPhone apps. He wanted to improve his programming skills but was feeling stuck. He eagerly listed the technologies he had mastered, but wasn’t sure what he should tackle next.

@@ -17,6 +17,18 @@ body {
   font-family: 'Swift Neue', 'Clarendon', 'Serif';
 }
 
+div.writing {
+  margin-top: 30px;
+}
+
+
+h1 {
+  font-family: 'Swift Neue Bold';
+}
+
+h2 {
+  margin-bottom: 0px; 
+}
 ul.writing {
   list-style: none;
   margin-left: 0;
