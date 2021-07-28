@@ -17,8 +17,16 @@ body {
   font-family: 'Swift Neue', 'Clarendon', 'Serif';
 }
 
+strong {
+  font-family: 'Swift Neue Bold', 'Clarendon', 'Serif';
+}
+
 div.writing {
   margin-top: 30px;
+}
+
+blockquote {
+  font-style: normal;
 }
 
 
