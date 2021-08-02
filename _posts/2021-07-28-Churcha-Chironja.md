@@ -12,7 +12,7 @@ I took strange hobbies to another level by starting a “church.”
 
 Starting a church sounds crazy, but it’s been an incredibly impactful experience that I want to share.
 
-Churcha Chironja is a practice where you, your friends, and your community come together to ask and ponder Big Life Questions. You step back from your day-to-day problems and think longer-term and bigger picture. At its best, the church is a magic seed that grows into deep connections with strangers and friends alike. 
+Churcha Chironja is a practice where you, your friends, and your community come together in a secular setting to ask and ponder questions that are usually the province of religion. You step back from your day-to-day problems and think longer-term and bigger picture. At its best, the church is a magic seed that grows into deep connections with strangers and friends alike. 
 
 # How it works
 Every Sunday, we gather over a meal followed by a “sermon,” a short talk about a life topic that has challenged the speaker. Personal stories are encouraged. Then we have a conversation where folks react to the sermon and share their own stories on the same theme. We end with a poem that we co-create. 
