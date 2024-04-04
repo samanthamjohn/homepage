@@ -9,3 +9,7 @@ img.poem-small {
   display: block;
   clear: both;
 }
+
+h4 {
+  margin-bottom: 0px;
+}
