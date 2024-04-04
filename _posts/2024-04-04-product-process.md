@@ -63,3 +63,5 @@ This is analogous to the references section of a scientific paper. It's the rese
 
 ### Conclusion
 And there you have it. The Hopscotch Certified Product Doc. We’ve used this for years at Hopscotch, and I’ve started implementing it for my consulting clients as well with a lot of success. I would love to see more teams adopt a scientific process for their product development, so please reach out if you have any questions about how this could work for you!
+
+Lastly, if all this has made you curious about [Hopscotch](https://www.gethopscotch.com/) check it out for web, iPad and iPhone [here](https://www.gethopscotch.com/).
