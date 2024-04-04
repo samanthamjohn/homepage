@@ -5,9 +5,10 @@ layout: default
 
   <header class="post-header">
     {% if page.external-url %}
-      <h1 class="post-title" itemprop="name headline"><a href="{{ page.external-url }}">{{ page.title | escape }} &rarr;</a></h1>
+    <h1 class="post-title" itemprop="name headline"><a href="{{ page.external-url }}">{{ page.title | escape }}
+        &rarr;</a></h1>
     {% else %}
-      <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     {% endif %}
   </header>
 
@@ -16,9 +17,9 @@ layout: default
   </div>
 
   {% if site.comments == true and page.comments != false %}
-    <div class="post-comments" itemprop="comment">
-      {% include custom_comments_provider.html %}
-    </div>
+  <div class="post-comments" itemprop="comment">
+    {% include custom_comments_provider.html %}
+  </div>
   {% endif %}
 
 </article>

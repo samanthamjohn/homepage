@@ -1,0 +1,8 @@
+{% assign title = page.title | default: site.title | escape %}
+{% assign canonical = page.url | replace:'index.html','' | absolute_url %}
+{% assign description = page.description | default: page.excerpt | default: site.description | strip_html |
+normalize_whitespace | escape %}
+<meta property="og:title" content="{{ title }}">
+<meta property="og:site_name" content="{{ site.title | escape }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:description" content="{{ description }}">
