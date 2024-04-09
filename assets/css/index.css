@@ -1,16 +1,18 @@
-
 @import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=7c30c420-4221-42b0-b76e-c1884df2cafa");
-@font-face{
-    font-family:"Swift Neue";
-    src:url("Fonts/42f96b2f-05f4-4dd8-b709-c72b30af7a6c.woff2") format("woff2"),url("Fonts/cd00b7e0-c589-40bc-a89b-0e680fb65531.woff") format("woff");
+
+@font-face {
+  font-family: "Swift Neue";
+  src: url("Fonts/42f96b2f-05f4-4dd8-b709-c72b30af7a6c.woff2") format("woff2"), url("Fonts/cd00b7e0-c589-40bc-a89b-0e680fb65531.woff") format("woff");
 }
-@font-face{
-    font-family:"Swift Neue Book";
-    src:url("Fonts/94779bdc-2e8d-43d6-9b51-f90e34a5cdc3.woff2") format("woff2"),url("Fonts/f54c1c01-df3b-417d-90c3-bae0d00a47db.woff") format("woff");
+
+@font-face {
+  font-family: "Swift Neue Book";
+  src: url("Fonts/94779bdc-2e8d-43d6-9b51-f90e34a5cdc3.woff2") format("woff2"), url("Fonts/f54c1c01-df3b-417d-90c3-bae0d00a47db.woff") format("woff");
 }
-@font-face{
-    font-family:"Swift Neue Bold";
-    src:url("Fonts/8b552ee9-41e5-40ec-8847-ba4825b34bf0.woff2") format("woff2"),url("Fonts/1bdb413e-0c6b-499b-a9fe-1667e4064ab7.woff") format("woff");
+
+@font-face {
+  font-family: "Swift Neue Bold";
+  src: url("Fonts/8b552ee9-41e5-40ec-8847-ba4825b34bf0.woff2") format("woff2"), url("Fonts/1bdb413e-0c6b-499b-a9fe-1667e4064ab7.woff") format("woff");
 }
 
 body {
@@ -35,9 +37,15 @@ h1 {
 }
 
 h2 {
-  margin-bottom: 0px; 
+  margin-bottom: 0px;
 }
+
 ul.writing {
   list-style: none;
   margin-left: 0;
+}
+
+.site-title img {
+  margin-top: 10px;
+  width: 200px;
 }
