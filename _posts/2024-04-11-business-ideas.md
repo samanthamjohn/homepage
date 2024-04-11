@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Are you Elon Musk or a garbage truck executive?"
+title: "Are you Elon Musk or a garbage truck titan?"
 date: 2024-04-11 9:57am
 summary: "How to find the perfect business idea for fun or profit"
 categories: software
